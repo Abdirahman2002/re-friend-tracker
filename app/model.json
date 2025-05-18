@@ -255,6 +255,15 @@
             "type": "backbutton"
           },
           {
+  "type": "newButton",
+  "name": "NewLocation",
+  "icon": "fa-home",
+  "color": "green",
+  "form": {
+    "form": "LocationForm"
+  }
+},
+          {
             "type": "list",
             "icon": "fa-home",
             "color": "blue",
